@@ -3,7 +3,8 @@
 
 ## 进阶之路：
 
-* Android UI界面设计规范完整版https://www.25xt.com/android
+* Android UI界面设计规范完整版 ：https://www.25xt.com/android
+* GitHub上README.md ：https://blog.csdn.net/kaitiren/article/details/38513715
 
   # 自定义
   
