@@ -22,6 +22,8 @@
 * 收集看到的内容 https://github.com/maoruibin/AwesomeArticles
 ---
 * 二十三种设计模式（每个模式完成了一个小Demo） https://github.com/Shimingli/AndriodDesignPattern
+---
+* Java学习指南 https://github.com/Snailclimb/Java-Guide
 
 ---
 # 翻墙
