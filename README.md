@@ -24,6 +24,8 @@
 * 二十三种设计模式（每个模式完成了一个小Demo） https://github.com/Shimingli/AndriodDesignPattern
 ---
 * Java学习指南 https://github.com/Snailclimb/Java-Guide
+---
+* 设计师资源大全 https://github.com/jobbole/awesome-design-cn
 
 ---
 # 翻墙
