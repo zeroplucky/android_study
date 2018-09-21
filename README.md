@@ -32,3 +32,8 @@
 * shadowsocks: https://github.com/shadowsocks/shadowsocks-windows
 * lantern : https://github.com/getlantern
 
+---
+# 小程序
+* 模拟万方移动端 https://github.com/anxiaok/wechart_WFMobile
+* 回声谷 https://github.com/kukajenny/echoValley
+
