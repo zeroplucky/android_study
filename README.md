@@ -26,6 +26,8 @@
 * Java学习指南 https://github.com/Snailclimb/Java-Guide
 ---
 * 设计师资源大全 https://github.com/jobbole/awesome-design-cn
+---
+* 后端架构师技术图谱 https://github.com/xingshaocheng/architect-awesome
 
 ---
 # 翻墙
