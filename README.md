@@ -33,6 +33,7 @@
 # 翻墙
 * shadowsocks: https://github.com/shadowsocks/shadowsocks-windows
 * lantern : https://github.com/getlantern
+* 修改hosts文件实现翻墙 https://blog.csdn.net/qq_39720249/article/details/81107414
 
 ---
 # 小程序
