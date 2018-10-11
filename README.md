@@ -40,3 +40,16 @@
 * 模拟万方移动端 https://github.com/anxiaok/wechart_WFMobile
 * 回声谷 https://github.com/kukajenny/echoValley
 
+# 复习资料
+* Interviews  https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
+* Java 核心知识库 https://github.com/crossoverJie/JCSprout
+* Java程序员所需要掌握的核心知识 https://github.com/Snailclimb/JavaGuide
+
+
+
+
+
+
+
+
+
