@@ -35,6 +35,11 @@
 * lantern : https://github.com/getlantern
 * 修改hosts文件实现翻墙 https://blog.csdn.net/qq_39720249/article/details/81107414
 
+
+---
+# git学习
+* 高质量的Git中文教程: https://github.com/geeeeeeeeek/git-recipes
+
 ---
 # 小程序
 * 模拟万方移动端 https://github.com/anxiaok/wechart_WFMobile
