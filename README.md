@@ -42,6 +42,7 @@
 
 ---
 # 小程序
+* 小程序框架及案例：https://github.com/Tencent/wepy
 * 模拟万方移动端 https://github.com/anxiaok/wechart_WFMobile
 * 回声谷 https://github.com/kukajenny/echoValley
 
