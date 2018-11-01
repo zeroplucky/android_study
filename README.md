@@ -28,7 +28,8 @@
 * 设计师资源大全 https://github.com/jobbole/awesome-design-cn
 ---
 * 后端架构师技术图谱 https://github.com/xingshaocheng/architect-awesome
-
+---
+* 深度学习500问 https://github.com/scutan90/DeepLearning-500-questions
 ---
 # 翻墙
 * shadowsocks: https://github.com/shadowsocks/shadowsocks-windows
