@@ -31,6 +31,7 @@
 ---
 * 深度学习500问 https://github.com/scutan90/DeepLearning-500-questions
 ---
+* Android直播实现 https://blog.csdn.net/Mr_Sk/article/details/71083366
 # 翻墙
 * shadowsocks: https://github.com/shadowsocks/shadowsocks-windows
 * lantern : https://github.com/getlantern
