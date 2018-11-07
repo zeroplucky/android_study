@@ -10,6 +10,7 @@
 * 安卓学习笔记 https://github.com/GcsSloop/AndroidNote
 * 自定义View基础 https://www.jianshu.com/p/146e5cec4863
 * Android 所有动画系列详尽教程 https://github.com/OCNYang/Android-Animation-Set
+* Android知识: https://github.com/linsir6/AndroidNote
 ---
 * 《Android 江湖花名册》 https://github.com/OCNYang/AndroidBang
 * 国内外知名Android开发者GitHub、Blog https://blog.csdn.net/piscesq329a/article/details/47131765/
