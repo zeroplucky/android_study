@@ -54,6 +54,8 @@
 * Java 核心知识库 https://github.com/crossoverJie/JCSprout
 * Java程序员所需要掌握的核心知识 https://github.com/Snailclimb/JavaGuide
 
+# 发布项目到jitpack: https://github.com/GcsSloop/AndroidNote/blob/master/Course/ReleaseLibraryByJitPack.md
+
 
 
 
