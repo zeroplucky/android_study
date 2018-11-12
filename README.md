@@ -48,6 +48,7 @@
 * 小程序框架及案例：https://github.com/Tencent/wepy
 * 模拟万方移动端 https://github.com/anxiaok/wechart_WFMobile
 * 回声谷 https://github.com/kukajenny/echoValley
+* 微信小程序蓝牙调试工具: https://github.com/ChessLuo/BlueToothTool
 
 # 复习资料
 * Interviews  https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
