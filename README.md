@@ -21,6 +21,11 @@
 * 工匠若水 Android应用框架浅析 https://blog.csdn.net/yanbober/article/category/3206943
 * Android相关原创知识体系 https://github.com/henrymorgen/android-knowledge-system
 * 收集看到的内容 https://github.com/maoruibin/AwesomeArticles
+* 技术博客笔记大汇总 https://github.com/yangchong211/YCBlogs
+* 软件工程技术面试个人指南 https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
+* Android开发工程师的一份面试指南 https://github.com/guoxiaoxing/android-interview-guide
+
+
 ---
 * 二十三种设计模式（每个模式完成了一个小Demo） https://github.com/Shimingli/AndriodDesignPattern
 ---
