@@ -63,6 +63,19 @@
 * 发布项目到jitpack https://github.com/GcsSloop/AndroidNote/blob/master/Course/ReleaseLibraryByJitPack.md
 
 
+# 项目可能会用的框架
+* butterknife： https://github.com/JakeWharton/butterknife
+* Fragmentation： https://github.com/YoKeyword/Fragmentation
+* SmartRefreshLayout： https://github.com/scwang90/SmartRefreshLayout
+* BaseRecyclerViewAdapterHelper： https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+* EventBus： https://github.com/greenrobot/EventBus
+* GlideImageView： https://github.com/sunfusheng/GlideImageView
+* YCUpdateApp： https://github.com/yangchong211/YCUpdateApp
+* ImmersionBar： https://github.com/gyf-dev/ImmersionBar
+* ImagePicker： https://github.com/jeasonlzy/ImagePicker
+* FlycoTabLayout： https://github.com/H07000223/FlycoTabLayout
+* AndroidAutoSize： https://github.com/JessYanCoding/AndroidAutoSize
+
 
 
 
