@@ -16,6 +16,7 @@
 * Android UI界面设计规范完整版 ：https://www.25xt.com/android
 * GitHub的README.md教程 ：https://blog.csdn.net/kaitiren/article/details/38513715
 ----
+* Android自定义控件三部曲文章索引： https://blog.csdn.net/harvic880925/article/details/50995268
 * 自定义View系列教程 https://blog.csdn.net/lfdfhl/article/details/51603088
 * 安卓学习笔记 https://github.com/GcsSloop/AndroidNote
 * 自定义View基础 https://www.jianshu.com/p/146e5cec4863
