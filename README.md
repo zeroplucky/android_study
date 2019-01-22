@@ -86,6 +86,9 @@
 * ImagePicker： https://github.com/jeasonlzy/ImagePicker
 * FlycoTabLayout： https://github.com/H07000223/FlycoTabLayout
 * AndroidAutoSize： https://github.com/JessYanCoding/AndroidAutoSize
+* 测试中用到
+* AutoEx： https://github.com/BolexLiu/AutoEx
+* SpiderMan： https://github.com/simplepeng/SpiderMan
 
 
 
