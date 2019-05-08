@@ -35,6 +35,7 @@
 * 技术博客笔记大汇总 https://github.com/yangchong211/YCBlogs
 * 软件工程技术面试个人指南 https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
 * Android开发工程师的一份面试指南 https://github.com/guoxiaoxing/android-interview-guide
+* 互联网 Java 工程师进阶知识完全扫盲 https://github.com/zeroplucky/advanced-java
 
 
 ---
